@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **benjamin.a.kavanagh@gmail.com**
 
+- ⚡ Click [here](./cv/CV.pdf) to view my CV
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benjaminkavanagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="benjaminkavanagh" height="30" width="40" /></a>
