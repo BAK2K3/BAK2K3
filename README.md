@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studing for the **Google Associate Cloud Engineer** certification.
 
-- 👯 I've recently graduated with **Disctinction** from Code Institute's Full Stack Diploma, here's my final project: [CIRPG](https://cirpg.herokuapp.com/)
+- 👯 I've recently graduated with **Distinction** from Code Institute's Full Stack Diploma, here's my final project: [CIRPG](https://cirpg.herokuapp.com/)
 
 - 💬 Ask me about **Data Science and Neural Networks....or Video Games.**
 
