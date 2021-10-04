@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bak2k3&label=Profile%20views&color=0e75b6&style=flat" alt="bak2k3" /> </p>
 
-- 🔭 I’m currently undertaking a Diploma in Full Stack Web Development via **Code Institute**
+- 🔭 I’m currently employed by **PwC** as an **Associate Full Stack Developer**
 
-- 🌱 I’m about to start learning **Django**
+- 🌱 I’m currently studing for the **Google Associate Cloud Engineer** certification.
 
-- 👯 I’ve recently finished my third Milestone Project [WYSPA](https://w-y-s-p-a.herokuapp.com/)
+- 👯 I've recently graduated with **Disctinction** from Code Institute's Full Stack Diploma, here's my final project: [CIRPG](https://cirpg.herokuapp.com/)
 
 - 💬 Ask me about **Data Science and Neural Networks....or Video Games.**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjaminkavanagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="benjaminkavanagh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benjaminkavanagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjaminkavanagh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
