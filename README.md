@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bak2k3&label=Profile%20views&color=0e75b6&style=flat" alt="bak2k3" /> </p>
 
-- 🔭 I’m currently employed by **PwC** as an **Associate Full Stack Developer**
+- 🔭 I’m currently employed by **Credera** as an **Software Engineer**
 
 - 🌱 I’ve recently received the **Google Associate Cloud Engineer** certification.
 
